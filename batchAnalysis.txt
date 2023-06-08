@@ -1,0 +1,5 @@
+D:\ghidra_10.3_PUBLIC\support\analyzeHeadless D:\testproject BatchProcess -scriptPath D:\ghidra_10.3_PUBLIC\Ghidra\Features\BridgeRelated\ghidra_scripts -preScript ExportFunction.py -import D:\testproject\x86-64\binutils-2.30-O1\*.*
+
+analyzeHeadless /Users/user/ghidra/Projects Project2/folderTwo -scriptPath /user/scripts -preScript FixupPreScript.java -process -recursive
+
+D:\ghidra_10.3_PUBLIC\support\analyzeHeadless D:\testproject BatchProcess -scriptPath D:\ghidra_10.3_PUBLIC\Ghidra\Features\BridgeRelated\ghidra_scripts -preScript ExportFunction.py -process -recursive
